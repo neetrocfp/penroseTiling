@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"
+      xmlns:xlink='http://www.w3.org/1999/xlink'>
+  <head>
+    <title>XHTML 5 Example</title>
+
+
+  </head>
+  <body>
+  
+
+    <br/>
+<!--button style="position: static;"
+onclick="window.zoomFunc (true)">Zoom In</button>
+<button style="position: static;"
+onclick="window.zoomFunc (false)">Zoom Out</button>
+<button style="position: static;"
+onclick="">Inflate</button-->
+<br/>
+<embed  id="PenroseSVG" src="penroseInflate.svg" width="800"
+height="400" type="image/svg+xml" style="border:5px solid #99f;" />
+
+  </body>
+</html>
